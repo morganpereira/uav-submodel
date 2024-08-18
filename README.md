@@ -1,1 +1,2 @@
-# uav-submodel
+# UAV digital representation using AAS
+This Git repository hosts the development of a digital representation model for Unmanned Aerial Vehicles (UAVs) using the Asset Administration Shell (AAS) framework. The project focuses on creating a standardized and modular approach by implementing IDTA (Industrial Digital Twin Association) submodels. This model aims to comprehensively represent UAV assets, including technical specifications, operational parameters, compliance requirements, and environmental considerations. The repository includes all necessary files, documentation, and resources to support the development, integration, and deployment of this digital twin model for UAVs.
